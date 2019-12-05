@@ -1,0 +1,7 @@
+# Project exclude paths
+/cloud-mall-bean/target/
+/cloud-mall-common-util/target/
+/cloud-mall-interface/target/
+/cloud-mall-service-util/target/
+/cloud-mall-user-manage-service/target/
+/cloud-mall-web-util/target/
